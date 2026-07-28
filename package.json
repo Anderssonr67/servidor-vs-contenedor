@@ -1,6 +1,0 @@
-{
-  "name":"servidor-vs-contenedor",
-  "version":"1.0.0",
-  "scripts":{"estatico":"ts-node servidor-estatico.ts","dinamico":"ts-node contenedor-dinamico.ts"},
-  "devDependencies":{"typescript":"^5.9.0","ts-node":"^10.9.2","@types/node":"^24.0.0"}
-}
